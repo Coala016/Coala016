@@ -2,7 +2,7 @@
 
 <h1>Olá, Seja bem vindo ao meu github ☕</h1>
 
-<p>Seja bem vindo, Meu nome é kauã santos!</p>
+<p>Seja bem vindo, Meu nome é Kauã Santos!</p>
 
 ###
   <p>📖Estudando Dev Front-End</p>
